@@ -1,0 +1,14 @@
+c:\users\archer\documents\visual studio 2015\Projects\ProyectoADO01\ProyectoADO01\bin\Debug\ProyectoADO01.exe.config
+c:\users\archer\documents\visual studio 2015\Projects\ProyectoADO01\ProyectoADO01\bin\Debug\ProyectoADO01.exe
+c:\users\archer\documents\visual studio 2015\Projects\ProyectoADO01\ProyectoADO01\bin\Debug\ProyectoADO01.pdb
+c:\users\archer\documents\visual studio 2015\Projects\ProyectoADO01\ProyectoADO01\obj\Debug\ProyectoADO01.Form1.resources
+c:\users\archer\documents\visual studio 2015\Projects\ProyectoADO01\ProyectoADO01\obj\Debug\ProyectoADO01.Properties.Resources.resources
+c:\users\archer\documents\visual studio 2015\Projects\ProyectoADO01\ProyectoADO01\obj\Debug\ProyectoADO01.csproj.GenerateResource.Cache
+c:\users\archer\documents\visual studio 2015\Projects\ProyectoADO01\ProyectoADO01\obj\Debug\ProyectoADO01.exe
+c:\users\archer\documents\visual studio 2015\Projects\ProyectoADO01\ProyectoADO01\obj\Debug\ProyectoADO01.pdb
+C:\Users\Archer\Documents\Visual Studio 2015\Projects\ProyectoADO01\ProyectoADO01\obj\Debug\ProyectoADO01.csprojResolveAssemblyReference.cache
+C:\Users\Archer\Documents\Visual Studio 2015\Projects\ProyectoADO01\ProyectoADO01\obj\Debug\ProyectoADO01.Form2.resources
+C:\Users\Archer\Documents\Visual Studio 2015\Projects\ProyectoADO01\ProyectoADO01\obj\Debug\ProyectoADO01.Form3.resources
+C:\Users\Archer\Documents\Visual Studio 2015\Projects\ProyectoADO01\ProyectoADO01\obj\Debug\ProyectoADO01.Menu.resources
+C:\Users\Archer\Documents\Visual Studio 2015\Projects\ProyectoADO01\ProyectoADO01\obj\Debug\ProyectoADO01.Practica03.resources
+C:\Users\Archer\Documents\Visual Studio 2015\Projects\ProyectoADO01\ProyectoADO01\obj\Debug\ProyectoADO01.Practica04.resources
